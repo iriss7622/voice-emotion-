@@ -2,7 +2,7 @@
 🎤✨ Voice-Driven Emotion Visualization | 基于Whisper与Librosa的语音情绪可视化UI研究。将语音实时转化为动态声波色彩
 # 🎤 Voice-Emotion Visualization UI
 
-> **AI赋能的语音情绪可视化交互系统 | 毕业设计/作品集项目**
+> **AI赋能的语音情绪可视化交互系统 | 作品集项目**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![Librosa](https://img.shields.io/badge/Librosa-Audio%20Analysis-green)](https://librosa.org/)
@@ -30,7 +30,7 @@
 | **情绪分析** | Transformers (BERT) |
 | **前端可视化** | Three.js / Canvas API |
 | **后端处理** | Python (Flask) |
-| **设计工具** | Figma, ProtoPie, After Effects |
+| **设计工具** | Figma, Liblib, After Effects |
 
 ## 📁 项目结构
 
@@ -80,7 +80,7 @@ voice-emotion-ui/
 
 ## 🎨 设计理念
 
-> "我们不止关注AI*识别了什么*，更关注如何将结果*优雅地呈现*给用户。"
+> "不止关注AI*识别了什么*，更关注如何将结果*优雅地呈现*给用户。"
 > - 通过**置信度驱动**的视觉映射：高置信度显示鲜明动效，低置信度保持中性。
 > - 遵循**情感化设计**三层次理论：本能层（视觉）- 行为层（交互）- 反思层（情感共鸣）。
 
