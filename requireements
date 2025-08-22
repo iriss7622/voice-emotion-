@@ -1,0 +1,8 @@
+# 语音情绪分析项目依赖
+librosa==0.10.1
+openai-whisper==20231117
+torch==2.0.1
+transformers==4.30.0
+flask==2.3.0
+numpy==1.24.0
+scipy==1.10.0
